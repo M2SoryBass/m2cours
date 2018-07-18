@@ -1,4 +1,4 @@
-#TME1
+# TME1
 
 ## Dezipper le fichier phylip-3.696
 
