@@ -1,0 +1,1 @@
+#### 2. Use the command protdist (PHYLIP) to compute a distance matrix for the sequences and include the matrix in your report.
