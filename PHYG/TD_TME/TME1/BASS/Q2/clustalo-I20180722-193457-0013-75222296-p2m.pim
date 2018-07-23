@@ -1,0 +1,11 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: sp|P90925|PH4H_CAEEL  100.00   54.26   54.81   54.46   54.69
+     2: sp|Q2KIH7|PH4H_BOVIN   54.26  100.00   92.68   91.80   91.13
+     3: sp|P00439|PH4H_HUMAN   54.81   92.68  100.00   92.48   92.26
+     4: sp|P16331|PH4H_MOUSE   54.46   91.80   92.48  100.00   98.23
+     5: sp|P04176|PH4H_RAT     54.69   91.13   92.26   98.23  100.00
